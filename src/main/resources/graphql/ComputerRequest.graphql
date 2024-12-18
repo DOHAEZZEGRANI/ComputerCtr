@@ -1,0 +1,6 @@
+input ComputerRequest {
+    proce:String,
+    ram:String,
+    hardDrive:Float,
+    macAddress:String,
+}
